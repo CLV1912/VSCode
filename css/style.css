@@ -49,26 +49,24 @@ a{
 
 .positioCenterForm {
     display: flex;
-    position: static;
-    width: 50%;
-    height: 50%;
+    position: relative;
     
 }
 .formContacto{
-    /*width: 600px;
+    width: auto;
     height: auto;
 }
-    
+/*    
  body {
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
     font-family: cursive;
-  } */
-
+  }
+*/
  input, textarea {
-    /*width: 100%;*/
+    width: 90%;
     padding: 5px;
     outline: none;
     resize: none;
